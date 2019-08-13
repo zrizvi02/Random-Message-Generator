@@ -1,0 +1,146 @@
+body {
+  background-color: #FFFBFD;
+}
+
+.d1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.d2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.d3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+p{
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  color: #242679;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #FF60D9;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+#aq {
+  background-color: lightgreen;
+  margin: 15px;
+  padding: 50px 60px;
+  border: 1px solid lightgreen;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+#p {
+  background-color: #35C700;
+  margin: 15px;
+  padding: 50px 60px;
+  border: 1px solid #35C700;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+#ar {
+  background-color: #4F91E8;
+  margin: 15px;
+  padding: 50px 60px;
+  border: 1px solid lightblue;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+#t {
+  background-color: blue;
+  margin: 15px;
+  padding: 50px 60px;
+  border: 1px solid blue;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+#g {
+  background-color: #1C0095;
+  margin: 15px;
+  padding: 50px 60px;
+  border: 1px solid darkblue;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+#can {
+  background-color: #A168FF;
+  margin: 15px;
+  padding: 50px 60px;
+  border: 1px solid #A168FF;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+#leo {
+  background-color: #6E47AD;
+  margin: 15px;
+  padding: 50px 60px;
+  border: 1px solid purple;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+#v {
+  background-color: #FC83F4;
+  margin: 15px;
+  padding: 50px 60px;
+  border: 1px solid pink;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+#li {
+  background-color: red;
+  margin: 15px;
+  padding: 50px 60px;
+  border: 1px solid red;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+#sc {
+  background-color: orange;
+  margin: 15px;
+  padding: 50px 60px;
+  border: 1px solid orange;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+#sa {
+  background-color: #F5F584;
+  margin: 15px;
+  padding: 50px 60px;
+  border: 1px solid yellow;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+#cap {
+  background-color: yellow;
+  margin: 15px;
+  padding: 50px 60px;
+  border: 1px solid yellow;
+  font-size: 18px;
+  border-radius: 4px;
+}
